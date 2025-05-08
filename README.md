@@ -15,4 +15,5 @@ A Streamlit web app to detect diabetic retinopathy using a VGG16 deep learning m
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-
+3.Run locally
+   streamlit run app.py
