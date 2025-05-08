@@ -1,7 +1,8 @@
-streamlit
-torch
-torchvision
-opencv-python
-pillow
-fpdf
-gdown
+streamlit==1.45.0
+torch==2.2.0
+torchvision==0.17.0
+fpdf==1.7.2
+gdown==5.2.0
+pillow==11.1.0
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
