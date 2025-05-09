@@ -1,6 +1,3 @@
-# This is your full diabetic retinopathy detection app with auto-download model
-# Clean UI, Grad-CAM, SQLite logging, and downloadable A4 report included.
-
 import streamlit as st
 import torch
 import torch.nn as nn
