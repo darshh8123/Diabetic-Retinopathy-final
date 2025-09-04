@@ -22,6 +22,8 @@ Built an AI system to assist in early diagnosis of diabetic retinopathy — a le
 - 
 This project strengthened my skills in deep learning, medical imaging, and model deployment. Grateful for the opportunity to work on something that bridges AI with healthcare.
 
+Live app: https://diabetic-retino-project-final.streamlit.app/
+
 Streamlit Interface
 ![dia1](https://github.com/user-attachments/assets/ddf0d6c5-9445-4358-a638-dc370a49732a)
 
